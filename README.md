@@ -1,6 +1,6 @@
 # news
 
-##Build with
+## Build with
 Django
 Bootstrap
 Postgres
