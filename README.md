@@ -29,10 +29,6 @@ python -m pip install -r requirements.txt
 ```
 
 ## Build with
-* Django 4.1.5
-* Bootstrap 
-* Postgres
-* Signals
-* Celery
-* Redis
-* Unit-testing
+* Django 4
+* Bootstrap 5
+* Postgres 14
