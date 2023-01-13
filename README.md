@@ -22,11 +22,10 @@ python -m venv venv
 
 ```
 * Activate virtual environment:
-.\venv\Scripts\activate
+
 
 ```
-
-
+.\venv\Scripts\activate
 
 ```
 python -m venv venv
