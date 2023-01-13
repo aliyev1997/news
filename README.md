@@ -1,10 +1,10 @@
 # Blog
 
-# Requirements (Prerequisites)
+## Requirements (Prerequisites)
 
 * Python 3.9 and up
 
-# Installation 
+## Installation 
 
 1. Create virtual environment:
 
