@@ -4,12 +4,6 @@
 - Categories
 - Registration and Authentication
 
-Добавь описание основных функций блога. Типо
-- Категории
-- Статьи
-- Комментарии
-- Регистрация и авторизация и т.д.
-
 ## Requirements (Prerequisites)
 
 * Python 3.9 and up
