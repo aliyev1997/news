@@ -16,6 +16,12 @@ make install
 pip install -e .
 More examples please....
 
+* To run create virtual environment:
+```
+virtualenv venv
+source venv/bin/activate
+```
+
 
 ```
 python -m venv venv
