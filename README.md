@@ -18,7 +18,8 @@ More examples please....
 
 
 ```
-git status
-git add
-git commit
+python -m venv venv
+.\venv\Scripts\activate
+pip install django
+
 ```
