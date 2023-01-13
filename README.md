@@ -23,7 +23,7 @@ python -m venv venv
 python -m pip install -r requirements.txt
 ```
 
-# Build with
+## Build with
 * Django 4.1.5
 * Bootstrap 
 * Postgres
