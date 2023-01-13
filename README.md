@@ -14,13 +14,13 @@ Signals
 
 # Installation 
 
-* Create virtual environment:
+1. Create virtual environment:
 
 ```
 python -m venv venv
 ```
 
-* Activate virtual environment
+2. Activate virtual environment
 ```
 .\venv\Scripts\activate
 ```
