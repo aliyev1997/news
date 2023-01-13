@@ -8,13 +8,24 @@ Signals
 
 
 
-'pip install django'
+# Requirements (Prerequisites)
 
-virtualenv foobar
-npm test
-make install 
-pip install -e .
-More examples please....
+* Python 3.9 and up install
+
+# Installation 
+
+* Create virtual environment:
+
+```
+python -m venv venv
+```
+
+* Activate virtual environment
+```
+.\venv\Scripts\activate
+```
+
+
 
 * To run create virtual environment:
 ```
