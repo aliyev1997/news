@@ -2,7 +2,7 @@
 
 # Requirements (Prerequisites)
 
-* Python 3.9 and up install
+* Python 3.9 and up
 
 # Installation 
 
@@ -24,8 +24,8 @@ python -m pip install -r requirements.txt
 ```
 
 # Build with
-* Django
-* Bootstrap
+* Django 4.1.5
+* Bootstrap 
 * Postgres
 * Signals
 * Celery
