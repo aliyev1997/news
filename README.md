@@ -2,6 +2,7 @@
 
 - Posts
 - Categories
+- Tags
 - Registration and Authentication
 
 ## Requirements (Prerequisites)
