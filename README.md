@@ -1,12 +1,4 @@
-# news
-
-## Build with
-Django
-Bootstrap
-Postgres
-Signals
-
-
+# Blog
 
 # Requirements (Prerequisites)
 
@@ -25,22 +17,13 @@ python -m venv venv
 .\venv\Scripts\activate
 ```
 
-
-
-* To run create virtual environment:
-```
-python -m venv venv
+3. Install requirements
 
 ```
-* Activate virtual environment:
-
-
+python -m pip install -r requirements.txt
 ```
-.\venv\Scripts\activate
 
-```
-python -m venv venv
-.\venv\Scripts\activate
-pip install django
-
-```
+# Build with
+Django
+Bootstrap
+Postgres
